@@ -1,0 +1,22 @@
+/* Juan Manuel Mendizábal Amat */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+  }
+
+div .row{
+  border: 1px solid black;
+  padding: 5%;
+  margin:1%;
+}
+
+div .col-md-6{
+  border: 1px solid black;
+  padding: 5%;
+}
+
+div .col-md-4{
+  border: 1px solid black;
+  padding: 5%;
+}
